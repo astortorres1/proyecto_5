@@ -2,9 +2,9 @@
   "name": "express-product-manager",
   "version": "1.0.0",
   "description": "Servidor Express con ProductManager para manejo de archivos",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
