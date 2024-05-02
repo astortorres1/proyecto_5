@@ -1,4 +1,3 @@
-const db = require('../db');
 
 class Cart {
   constructor(id, userId) {

@@ -1,4 +1,3 @@
-const db = require('../db');
 
 class Product {
   constructor(id, name, price) {

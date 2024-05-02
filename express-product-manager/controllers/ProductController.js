@@ -1,5 +1,6 @@
-// controllers/ProductController.js
-const Product = require('../models/Product');
+
+const Product = require('../models/products');
+
 
 class ProductController {
   async getAllProducts(req, res) {
@@ -32,4 +33,3 @@ class ProductController {
 }
 
 module.exports = new ProductController();
-
