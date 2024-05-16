@@ -1,4 +1,4 @@
-
+//models/cart.js
 class Cart {
   constructor(id, userId) {
     this.id = id;

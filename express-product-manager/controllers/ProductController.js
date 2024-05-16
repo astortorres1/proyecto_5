@@ -1,3 +1,4 @@
+//controllers/ProductController.js
 
 const Product = require('../models/products');
 

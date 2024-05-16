@@ -1,3 +1,5 @@
+//services/ProductService.js
+
 const Product = require('../models/Product');
 
 class ProductService {
